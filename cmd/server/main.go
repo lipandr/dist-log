@@ -1,8 +1,9 @@
 package main
 
 import (
-	"github.com/lipandr/dist-log/internal/server"
 	"log"
+
+	"github.com/lipandr/dist-log/internal/server"
 )
 
 func main() {
